@@ -1,0 +1,15 @@
+pip install opencv-python
+
+opensource-computer vision library-opencv
+import cv2	
+
+python->right click->open file location->version[rigt click]->open file location->lib->site-packages->cv2->data->haar-cascade_frontalface_default.xml
+
+lbph Algorithm:[Local binary pattern histogram]-1196
+
+face detection->haar-cascade_frontalface_default.xml
+
+face recogntion-lbph
+
+4 Parameters:(radius,neighbour,gridx.gridy)
+ 
